@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller001</string>
+    <string name="roll_label">Roll the Dice </string>
+    <string name="app_label">App by Dorset College</string>
+    <string name="LOG_MESSAGE_1">I am a message</string>
+    <string name="SCREEN_MESSAGE_1">Dice Rolled</string>
+    <string name="DEFAULT_MESSAGE">Hello World</string>
+</resources>
